@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668570766 source:c:\users\usuário\desktop\unip\finalpimiv\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+

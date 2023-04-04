@@ -1,0 +1,81 @@
+
+
+Nome : cleversomf dadas 
+CPF: 01144890179
+Data de Nasc: 30/10/1986
+Data de Nasc: 10/10/2022
+comorbidade:   n  
+CEP: 12121212
+EMAIL: wefb
+endereço: weweqweqwewqerqw
+telefone: 12345678900
+
+Nome : clarisse
+CPF: 111111111111
+Data de Nasc: 12/12/1000
+Data de Nasc: 12/12/1066
+comorbidade:   n  
+CEP: 55555555
+EMAIL: fgfds
+endereço: fdfadadfafad
+telefone: 12123456789
+
+Nome : clarisse
+CPF: 111111111111
+Data de Nasc: 12/12/1000
+Data de Nasc: 12/12/1065
+comorbidade:   n  
+CEP: 12345678
+EMAIL: 12dd
+endereço: fdasdsd
+telefone: 12123456789
+
+Nome : clffffff cadads
+CPF: 222222222222
+Data de Nasc: 12/12/1000
+Data de Nasc: 12/12/1002
+comorbidade:   s  
+CEP: 66666666
+EMAIL: dgrf
+endereço: dsdsdsdasd
+telefone: 12123456789
+
+Nome : cleesadjhsad djhaksjdkajs
+CPF: 222222222222
+Data de Nasc: 12/12/1111
+Data de Nasc: 12/12/1112
+comorbidade:   S  
+CEP: 12345678
+EMAIL: asdf
+endereço: edfdfadfa
+telefone: 12123456789
+
+Nome : cadfdfsad
+CPF: 111111111111
+Data de Nasc: 11/11/1234
+Data de Nasc: 11/11/1235
+comorbidade:   n  
+CEP: 00000000
+EMAIL: 12wed
+endereço: dsfdfasa
+telefone: 12123456781
+
+Nome : llllllaaaa aaaaa
+CPF: 111111111111
+Data de Nasc: 12/12/1000
+Data de Nasc: 12/12/1060
+comorbidade:   n  
+CEP: 11111111
+EMAIL: sdadadfda
+endereço: fasdfjdhjshjsdjsks
+telefone: 12123456789
+
+Nome : cleverof
+CPF: 11111111111
+Data de Nasc: 11/11/1111
+Data de Nasc: 11/11/1121
+comorbidade:   s  
+CEP: 12345678
+EMAIL: fsdfa
+endereço: qeqwe	qw
+telefone: 12123456789
